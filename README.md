@@ -59,8 +59,12 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addresse
 
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+************************************************************************************************************************
+Proyecto para hacer un chat usando chat gpt, se trabaja con laravel como bakend y Vue y Tailwind para el fronted.
+Igualmente usando Inertia para tener mejores funciones.
+![Imagen1](https://user-images.githubusercontent.com/91169099/220795780-a2eed3c3-96e2-4804-8a71-f3de3f0317be.png)
